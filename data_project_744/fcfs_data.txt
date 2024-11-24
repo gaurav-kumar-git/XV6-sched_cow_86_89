@@ -1,0 +1,20 @@
+$ load 3 5
+Process ID: 2, creation_time: 7, ticks: 1409
+Process ID: 3, creation_time: 1409, ticks: 1409
+Process ID: 3, creation_time: 1409, ticks: 1410
+Process ID: 3, creation_time: 1409, ticks: 1410
+Process ID: 3, creation_time: 1409, ticks: 1410
+Process ID: 3, creation_time: 1409, ticks: 1410
+Process ID: 3, creation_time: 1409, ticks: 1410
+Process ID: 3, creation_time: 1409, ticks: 1411
+Process ID: 3, creation_time: 1409, ticks: 1411
+Process ID: 4, creation_time: 1411, ticks: 1412
+Process ID: 3, creation_time: 1409, ticks: 2064
+Process ID: 5, creation_time: 1411, ticks: 2064
+Process ID: 3, creation_time: 1409, ticks: 2762
+Process ID: 6, creation_time: 1411, ticks: 2762
+Process ID: 3, creation_time: 1409, ticks: 3473
+Process ID: 7, creation_time: 1412, ticks: 3473
+Process ID: 3, creation_time: 1409, ticks: 4126
+Process ID: 8, creation_time: 1412, ticks: 4127
+Process ID: 3, creation_time: 1409, ticks: 4778
